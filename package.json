@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-backend",
+  "version": "1.0.0",
+  "description": "Bootstrap for nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nodejs",
+    "bootstrap"
+  ],
+  "author": "QortexDevs",
+  "license": "ISC"
+}
